@@ -8,6 +8,6 @@ TODOs:
 1. Skip the verification of Google account.
 2. Get all the company URLs.
 3. Customize the crawler that you can simply crawl companies you are interested in.
-4. Fix various bugs haha.
+4. Fix various bugs ==！.
 
 Should you have any inquiries or feedback, feel free to [contact me](mailto:xiangyi.huang0213@gmail.com).
