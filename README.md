@@ -10,4 +10,4 @@ TODOs:
 3. Customize the crawler that you can simply crawl companies you are interested in.
 4. Fix various bugs haha.
 
-Should you have any inquiries or feedback, feel free to [contact me](xiangyi.huang0213@gmail.com).
+Should you have any inquiries or feedback, feel free to [contact me](mailto:xiangyi.huang0213@gmail.com).
